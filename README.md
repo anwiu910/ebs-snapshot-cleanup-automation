@@ -7,13 +7,11 @@ This helps reduce unnecessary storage costs in AWS by identifying snapshots no l
 
 ## Features
 
-| Feature | Status |
-|---|:---:|
-| Detect stale EBS snapshots | ✔ |
-| Tag-based protection (`Keep=true`, `Environment=production`) | ✔ |
-| Cost estimation per month | ✔ |
-| CloudWatch logging visibility | ✔ |
-| boto3 execution with Lambda | ✔ |
+- **Detect stale EBS snapshots**
+- **Tag-based protection (`Keep=true`, `Environment=production`)**
+- **Cost estimation per month**
+- **CloudWatch logging visibility**
+- **boto3 execution with Lambda**
 
 ---
 
